@@ -13,7 +13,7 @@ Hubs,
 Projeto Temático: redes dirigidas,
 Visualização de Dados: Gephi,
 Estudo de caso: análise cientométrica, sociais, mobilidade,
-Projeto Final
+Projeto Final.
 
 
 # 1 Unidade 
