@@ -12,7 +12,7 @@ Projeto Temático: redes de infraestrutura,
 Hubs, 	
 Projeto Temático: redes dirigidas,
 Visualização de Dados: Gephi,
-Estudo de caso: análise cientométrica, sociais, mobilidade
+Estudo de caso: análise cientométrica, sociais, mobilidade,
 Projeto Final
 
 
