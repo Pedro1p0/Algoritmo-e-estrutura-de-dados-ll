@@ -1,4 +1,4 @@
-# Algoritmo-e-estrutura-de-dados-ll
+# Algoritmo e estrutura de dados II
 Repositório destinado ao projeto da matéria DCA0209 -  ALGORITMOS E ESTRUTURAS DE DADOS II  - T01
 
 # Plano de curso
